@@ -1,9 +1,9 @@
 # OWASPTopTenForLLMs
-A presentation I'll be giving for my local ISSA chapter.
+A presentation I created for my local ISSA chapter, and presented on to HungerRush. 
 
-Covering Large Language Models, Agents, and Multi-Agent Orchestration systems, to give a view of current trends in the space.
+Covering Large Language Models, Agents, and Multi-Agent Orchestration systems, to give a view of current trends in the space, as well as security considerations for systems using these technologies.
 
-This presentation will give context for the Security risks associated with LLM based systems.
+For a video on me presenting, see here: https://drive.google.com/file/d/16t3rUk6unobWaILK5OrT7jNQdCj5ptpN/view?usp=drive_link
 
 Links:
 - https://llmtop10.com/ 
